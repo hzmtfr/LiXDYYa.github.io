@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
- <img src="./photo.jpg"/>
+ <img src="./photo.jpg" />
 
 - Bulleted
 - List
