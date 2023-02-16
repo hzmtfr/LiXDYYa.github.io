@@ -1,7 +1,7 @@
-subscribe-url: http://your-service-provider
+subscribe-url: https://www.efcloud.cc/api/v1/client/subscribe?token=2d7272884b741ba6f0b9cc78ea13c0c6
 proxy-providers:
   服务提供商-1:
-    url: http://your-service-provider
+    url: https://www.efcloud.cc/api/v1/client/subscribe?token=2d7272884b741ba6f0b9cc78ea13c0c6
     interval: 600
   # 服务提供商-2:
   #   url: http://your-another-service-provider
